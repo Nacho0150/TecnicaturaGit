@@ -29,3 +29,9 @@ D
 Clase5/Ejercicio5.py,2\5\253608c1f1a25a75d21d081881b30f2c42e1ea2d
 E
 Clase1/Ejercicio01.py,9\4\94af946b2a4999c3a0cd1cf9f0d3037d7dfaf7b9
+D
+Clase4/Ejercicio4.py,3\5\35aac6a40c6ec1fb6e06ce6cf8909f95aead4431
+D
+Clase4/Ejercicio1.py,e\3\e398d1432e7c61951475b768e3fd4544703af921
+D
+Clase4/Ejercicio2.py,a\0\a060950bcb55b691b05d89a4748d5f3bb7366aa3
