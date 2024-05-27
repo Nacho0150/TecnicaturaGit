@@ -143,7 +143,7 @@ public class HolaMundo {
 //        System.out.println("edad = " + edad);
 
         //Conversión de tipos primitivos en Java Parte 2
-        var edadTexto = String.valueOf(10);
+        /*var edadTexto = String.valueOf(10);
         System.out.println("edadTexto = " + edadTexto);
 
         var fraseChar = "programadores".charAt(4);
@@ -151,6 +151,49 @@ public class HolaMundo {
 
         System.out.println("Digite un caracter: ");
         fraseChar = entrada.nextLine().charAt(0);
-        System.out.println("fraseChar = " + fraseChar);
+        System.out.println("fraseChar = " + fraseChar);*/
+
+        /*int num1 = 5, num2 = 4;
+        var solucion = num1 + num2;
+        System.out.println("Solución de la suma = " + solucion);
+
+        solucion = num1 - num2;
+        System.out.println("Solución de la resta = " + solucion);
+
+        solucion = num1 * num2;
+        System.out.println("Solución de la multiplicación = " + solucion);
+
+        solucion = num1 / num2;
+        System.out.println("Solución de la división = " + solucion);
+
+        var solucion2 = 3.4 / num2;
+        System.out.println("solucion2 resultado de la división = " + solucion2);
+
+        solucion = num1 % num2; //Guarda el residio entero de la división
+        System.out.println("solucion = " + solucion); // 5/4
+
+        if (num1 % 2 == 0) {
+            System.out.println("Es un número Par");
+        } else {
+            System.out.println("Es un número Impar");
+        }*/
+
+        int varNum1 = 1, varNum2 = 4;
+        var varNum3 = varNum1 + 6 - varNum2; //Una operación
+        System.out.println("varNum3 = " + varNum3);
+
+        varNum1 += 1;
+        System.out.println("varNum1 = " + varNum1);
+
+//        -=     *=     /=     %=
+        varNum2 -= 2;
+        System.out.println("varNum2 = " + varNum2);
+        varNum1 *= 5;
+        System.out.println("varNum1 = " + varNum1);
+        varNum3 /= 4;
+        System.out.println("varNum3 = " + varNum3);
+        varNum1 %= 6;
+        System.out.println("varNum1 = " + varNum1);
+
     }
 }
