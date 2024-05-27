@@ -5,3 +5,5 @@ E
 Clase6/Ejercicio01.py,2\9\291f7e1a1274b3a484aec88508d7813d6f288699
 E
 Clase6/Ejercicio02.py,a\7\a778f9e98fd75d74d337125e6f21aec42780810e
+D
+Clase7/Ejercicio3.py,3\8\38686148dbfe746ec1551af67e3712182e0c9402
